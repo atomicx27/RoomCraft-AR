@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "RoomCraft AR",
+    "slug": "roomcraft-ar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.roomcraft.ar"
+    },
+    "android": {
+      "package": "com.roomcraft.ar"
+    }
+  }
+}
